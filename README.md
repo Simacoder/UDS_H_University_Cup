@@ -16,22 +16,22 @@ You will receive alerts via email when team creation opens, when the practice pr
 
 > [!WARNING](Take Note)
 
-The University Cup is open to students registered at a university in South Africa.
+> The University Cup is open to students registered at a university in South Africa.
 
-This includes undergraduate students as well as full-time Honours students. Unfortunately, if you are working part-time whilst doing your honours, you may not enter the University Cup Challenge.
+> This includes undergraduate students as well as full-time Honours students. Unfortunately, if you are working part-time whilst doing your honours, you may not enter the University Cup Challenge.
 
-The University Cup is team-based. Each team must consist of no less than two, and no more than three individuals.
+> The University Cup is team-based. Each team must consist of no less than two, and no more than three individuals.
 
-The University Cup will take place over a single Saturday, one in April and one in July. The event will be hosted online for participating University campuses.
+> The University Cup will take place over a single Saturday, one in April and one in July. The event will be hosted online for participating University campuses.
 
 > [!TIP]
-- Submissions will be done online via the Entelect Challenge player portal.
+> Submissions will be done online via the Entelect Challenge player portal.
 
 > [!NOTE]
 
-**Entelect’s Graduate Programme**
+> **Entelect’s Graduate Programme**
 
-Every year, Entelect takes on some of South Africa's brightest young university graduates, who join us with a mix of engineering, science and commerce degrees. These chosen ones participate in an intensive training programme, structured to accelerate their careers – giving them a clear advantage over their university peers.
+> Every year, Entelect takes on some of South Africa's brightest young university graduates, who join us with a mix of engineering, science and commerce degrees. These chosen ones participate in an intensive training programme, structured to accelerate their careers – giving them a clear advantage over their university peers.
 
 Would you like to be invited to one of our Graduate Open Days, to learn even more?
 
