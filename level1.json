@@ -1,0 +1,63 @@
+{
+    "Zoo Dimensions": [
+        100,
+        100,
+        50
+    ],
+    "Drone Depot": [
+        [
+            50,
+            49,
+            19
+        ]
+    ],
+    "Battery Distance Capacity": 999999,
+    "Food Storages": [
+        {
+            "coordinates": [
+                56,
+                74,
+                13
+            ],
+            "diet": "h"
+        },
+        {
+            "coordinates": [
+                38,
+                79,
+                11
+            ],
+            "diet": "c"
+        },
+        {
+            "coordinates": [
+                20,
+                49,
+                37
+            ],
+            "diet": "o"
+        }
+    ],
+    "Enclosures": [
+        {
+            "coordinates": [
+                7,
+                12,
+                7
+            ],
+            "importance": 1,
+            "diet": "Carnivore"
+        },
+        {
+            "coordinates": [
+                10,
+                26,
+                6
+            ],
+            "importance": 3,
+            "diet": "Omnivore"
+        }
+    ],
+    "Deadzones": [],
+    "Battery Swaps": 0
+}

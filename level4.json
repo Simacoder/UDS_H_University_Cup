@@ -1,0 +1,134 @@
+{
+    "Zoo Dimensions": [
+        2500,
+        2500,
+        50
+    ],
+    "Drone Depot": [
+        [
+            7,
+            24,
+            5
+        ],
+        [
+            6,
+            9,
+            2
+        ],
+        [
+            7,
+            12,
+            7
+        ],
+        [
+            8,
+            10,
+            10
+        ],
+        [
+            5,
+            5,
+            12
+        ],
+        [
+            8,
+            4,
+            6
+        ],
+        [
+            10,
+            26,
+            6
+        ]
+    ],
+    "Battery Distance Capacity": 9250,
+    "Food Storages": [
+        {
+            "coordinates": [
+                5,
+                20,
+                1
+            ],
+            "diet": "Omnivore"
+        },
+        {
+            "coordinates": [
+                9,
+                18,
+                0
+            ],
+            "diet": "Herbivore"
+        },
+        {
+            "coordinates": [
+                6,
+                9,
+                2
+            ],
+            "diet": "Carnivore"
+        }
+    ],
+    "Enclosures": [
+        {
+            "coordinates": [
+                7,
+                12,
+                7
+            ],
+            "importance": 1,
+            "diet": "Carnivore"
+        },
+        {
+            "coordinates": [
+                10,
+                26,
+                6
+            ],
+            "importance": 3,
+            "diet": "Omnivore"
+        }
+    ],
+    "Deadzones": [
+        {
+            "coordinates": [
+                13,
+                14,
+                21
+            ],
+            "radius": 3
+        },
+        {
+            "coordinates": [
+                12,
+                8,
+                5
+            ],
+            "radius": 3
+        },
+        {
+            "coordinates": [
+                16,
+                13,
+                20
+            ],
+            "radius": 3
+        },
+        {
+            "coordinates": [
+                14,
+                18,
+                7
+            ],
+            "radius": 3
+        },
+        {
+            "coordinates": [
+                19,
+                20,
+                4
+            ],
+            "radius": 3
+        }
+    ],
+    "Battery Swaps": 250
+}

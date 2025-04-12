@@ -1,0 +1,15 @@
+{
+    "Zoo Dimensions": [100, 100, 50],
+    "Drone Depot": [[7, 24, 5], [6, 9, 2]],
+    "Battery Distance Capacity": 999999,
+    "Food Storages": [
+        {"coordinates": [5, 20, 1], "diet": "Omnivore"},
+        {"coordinates": [9, 18, 0], "diet": "Herbivore"}
+    ],
+    "Enclosures": [
+        {"coordinates": [7, 12, 7], "importance": 1, "diet": "Carnivore"},
+        {"coordinates": [10, 26, 6], "importance": 3, "diet": "Omnivore"}
+    ],
+    "Deadzones": [],
+    "Battery Swaps": 0
+}
