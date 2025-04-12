@@ -15,7 +15,6 @@ We will open registration and team creation closer to the hackathon, but start f
 You will receive alerts via email when team creation opens, when the practice problem is released, and the date/logistics for the University Cup event is announced.
 
 > [!WARNING]
-
 *Take Note*
 
  The University Cup is open to students registered at a university in South Africa.
@@ -30,7 +29,6 @@ You will receive alerts via email when team creation opens, when the practice pr
 > Submissions will be done online via the Entelect Challenge player portal.
 
 > [!NOTE]
-
  **Entelect’s Graduate Programme**
 
  Every year, Entelect takes on some of South Africa's brightest young university graduates, who join us with a mix of engineering, science and commerce degrees. These chosen ones participate in an intensive training programme, structured to accelerate their careers – giving them a clear advantage over their university peers.
